@@ -1,4 +1,6 @@
-# Jordan Tan Rei Yao CS3219 OTOT Assignment Task A
+# Docker and Nginx Web Server
+
+Deployed a simple web server using Nginx running in a Docker container.
 
 Install Docker Desktop on your computer first
 
